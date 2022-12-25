@@ -24,7 +24,8 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Bitcoin Price Now</h1>
+      <h1>Christmas Sale 2023</h1>
+      <h2>Bitcoin Price Today!</h2>
       <h3>${price}</h3>
     </div>
   );
